@@ -15,4 +15,4 @@ A simple **Pomodoro Timer** built with Python and Tkinter to help you stay produ
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pomodoro-timer.git
+   git clone https://github.com/Tanmaysavaj/pomodoro-timer.git
