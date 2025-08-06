@@ -10,8 +10,7 @@ A simple **Pomodoro Timer** built with Python and Tkinter to help you stay produ
 - Start and Reset buttons
 - Checkmarks (✔) to track completed work sessions
 
-## 🖼️ Screenshot
-*(Add a screenshot of your app here if you want)*
+
 
 ## 🚀 How to Run
 1. Clone this repository:
